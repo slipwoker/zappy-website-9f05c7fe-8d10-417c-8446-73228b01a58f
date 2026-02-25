@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Get fast, reliable computer repair services from certified technicians. We fix PCs, laptops, and more with same-day service available. Quality repairs at fair prices.
+
+### Services & Repairs
+https://example.com/services
+Searching for computer repair services near me? Our skilled technicians handle Dell computer repair, virus removal, upgrades, and diagnostics. Book your repair today!
+
+### Parts & Retail
+https://example.com/parts
+Shop genuine computer spare parts and components for all major brands. From hard drives to motherboards, we stock everything you need for repairs and upgrades.
+
+### Contact
+https://example.com/contact
+Ready to fix your computer? Contact PC.Solution,Inc today for a free diagnostic quote. Walk-ins welcome or schedule online for convenient computer repair services.
+
+### Products
+https://example.com/products
+Our Products - PC.Solution,Inc
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - PC.Solution,Inc
+
+### Category
+https://example.com/category/:slug
+Products - PC.Solution,Inc
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
